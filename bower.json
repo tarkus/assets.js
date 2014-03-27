@@ -1,0 +1,21 @@
+{
+  "name": "assets.js",
+  "main": "assets.min.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/tarkus/assets.js.git",
+  "authors": [
+    "Tarkus Liu <tarkus.nnkh@gmail.com>"
+  ],
+  "description": "Serve assets on client side",
+  "keywords": [
+    "assets"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
